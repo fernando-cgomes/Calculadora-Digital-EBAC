@@ -17,5 +17,5 @@ A Calculadora Digital é um programa simples em Python que permite ao usuário r
 
 ## Autor
 
-Fernando Costa Gomes
-Estudante de Analise de Dados – EBAC  
+#Fernando Costa Gomes
+#Estudante de Analise de Dados – EBAC  
